@@ -1,0 +1,31 @@
+
+body {
+    background-image: url('paddling_square.png');
+}
+
+
+#centerText {
+    color:white;
+    height: 100px;
+}
+
+#topMenu {
+    background-color: aqua;
+    color: white;
+    padding-bottom: 15px;
+}
+
+
+img {
+    width: 50px;
+}
+
+.nav-item:hover {
+    color: white;
+}
+
+#footer {
+    background-color: aqua;
+    color: #0d6efd;
+    bottom: 0;
+}
